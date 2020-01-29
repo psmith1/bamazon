@@ -21,7 +21,12 @@ npm install
 ### Using Bamazon
 NOTE: You must be in the directory 'bamazon' for Bamazon to work properly.
 
+## Bamazon Customer:
+
 ![BamazonCustomer](./images/bamazon_customer_demo.gif)
+
+
+## Bamazon Manager:
 
 ![BamazonManager](./images/bamazon_manager_demo.gif)
 
