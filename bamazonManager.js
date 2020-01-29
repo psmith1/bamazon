@@ -49,7 +49,7 @@ function chooseAction() {
                             "\n" + "Run 'node bamazonManager' again to return to the choices menu."
                         );
                     });
-                    endConncetion();
+                    endConnection();
                     break;
 
                 case "View Low Inventory":
